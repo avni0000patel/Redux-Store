@@ -4,10 +4,14 @@
 https://github.com/avni0000patel
 
 ## Deployed Application Link
-
+https://fierce-wave-89071.herokuapp.com/
 
 ## Technologies Used
 Apollo client - allows you to easily build UI components that fetch data via GraphQL
+
+Redux toolkit - the recommended way to start new apps with React and Redux Toolkit
+
+Stripe - used to tokenize customer information, collect sensitive payment details using customizable Stripe Elements, and accept payments with browser payment APIs
 
 Jest-dom testing library - a companion library for Testing Library that provides custom DOM element matchers for Jest
 
@@ -18,8 +22,6 @@ User-event testing library - simulates the real events that would happen in the 
 Apollo-server-express - production-ready Node.js GraphQL server for Express
 
 Bcrypt - hashes and salts passwords securely
-
-Bootstrap - the CSS framework
 
 Concurrently - runs commands concurrently
 
@@ -41,22 +43,13 @@ React-bootstrap - a Bootstrap 5 components built with React
 
 React-dom - serves as the entry point to the DOM and server renderers for React
 
+React-redux - llows React components to read data from a Redux Store, and dispatch Actions to the Store to update data
+
 React-router-dom - declarative routing for React web applications
 
 React-scripts - scripts and configuration used by Create React App
 
-## Instructions
-Run the following:
-
-`npm i`
-
-`npm run start`
-
-`npm run build`
-
-`npm run develop`
-
-# Getting Started with Create React App and Redux
+## Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
