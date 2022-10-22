@@ -1,3 +1,61 @@
+# Redux Store 
+
+## GitHub Link
+https://github.com/avni0000patel
+
+## Deployed Application Link
+
+
+## Technologies Used
+Apollo client - allows you to easily build UI components that fetch data via GraphQL
+
+Jest-dom testing library - a companion library for Testing Library that provides custom DOM element matchers for Jest
+
+React testing library - builds on top of DOM Testing Library by adding APIs for working with React components
+
+User-event testing library - simulates the real events that would happen in the browser as the user interacts with it
+
+Apollo-server-express - production-ready Node.js GraphQL server for Express
+
+Bcrypt - hashes and salts passwords securely
+
+Bootstrap - the CSS framework
+
+Concurrently - runs commands concurrently
+
+Express - the most popular Node web framework that makes it easy to work with routes
+
+Graphql - a Query Language and Runtime which can target any service
+
+Jsonwebtoken - JSON Web Token implementation (symmetric and asymmetric)
+
+Jwt-decode - decodes JWT tokens, mostly useful for browser applications
+
+Mongoose - a MongoDB object modeling tool designed to work in an asynchronous environment
+
+Nodemon - a tool that helps develop Node.js based applications by automatically restarting the node application when file changes in the directory are detected
+
+React - a JavaScript library for creating user interfaces
+
+React-bootstrap - a Bootstrap 5 components built with React
+
+React-dom - serves as the entry point to the DOM and server renderers for React
+
+React-router-dom - declarative routing for React web applications
+
+React-scripts - scripts and configuration used by Create React App
+
+## Instructions
+Run the following:
+
+`npm i`
+
+`npm run start`
+
+`npm run build`
+
+`npm run develop`
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
@@ -44,3 +102,5 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Screenshot
