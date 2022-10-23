@@ -1,4 +1,5 @@
 # Redux Store 
+In this project I refactored an e-commerce platform that uses React's Context API to use Redux. Redux remains the industry standard for managing complex state in a large-scale React application.
 
 ## GitHub Link
 https://github.com/avni0000patel
