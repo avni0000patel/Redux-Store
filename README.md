@@ -44,7 +44,7 @@ React-bootstrap - a Bootstrap 5 components built with React
 
 React-dom - serves as the entry point to the DOM and server renderers for React
 
-React-redux - llows React components to read data from a Redux Store, and dispatch Actions to the Store to update data
+React-redux - allows React components to read data from a Redux Store, and dispatch Actions to the Store to update data
 
 React-router-dom - declarative routing for React web applications
 
